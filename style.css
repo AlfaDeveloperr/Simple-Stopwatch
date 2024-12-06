@@ -1,0 +1,21 @@
+* {
+    overflow: hidden;
+}
+
+body {
+    padding: 30vh;
+}
+
+#timer {
+    color: brown;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#buttons {
+    text-align: center;
+    text-align: center;
+    margin-top: 20px;
+}
